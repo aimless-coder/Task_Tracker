@@ -2,7 +2,7 @@
 
 `task-cli` is a command-line tool for managing tasks. It allows you to add, update, delete, and list tasks, as well as mark them as done or in-progress.
 
-For more information on project idea, visit [roadmap.sh](https://roadmap.sh/projects/task-tracker)
+For more information on this project idea, visit [roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ For more information on project idea, visit [roadmap.sh](https://roadmap.sh/proj
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file structure)
+- [File Structure](#file_structure)
 ## Features
 
 - **Add a new task** with a description.
