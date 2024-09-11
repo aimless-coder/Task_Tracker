@@ -2,6 +2,8 @@
 
 `task-cli` is a command-line tool for managing tasks. It allows you to add, update, delete, and list tasks, as well as mark them as done or in-progress.
 
+For more information on project idea, visit [roadmap.sh](https://roadmap.sh/projects/task-tracker)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -27,7 +29,7 @@
 1. Clone this repository to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/task-cli.git
+    https://github.com/aimless-coder/Task_Tracker.git
     ```
 
 2. Navigate to the project directory:
