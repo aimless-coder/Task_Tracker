@@ -56,17 +56,6 @@ For more information on this project idea, visit [roadmap.sh](https://roadmap.sh
     npm link
     ```
 
-    
-## Usage
-
-- Enter Task: Type your task into the input field.
-- Add: Click the "Add Task" button or press Enter.
-- Toggle Completion: Click the task or checkbox to mark it as complete/incomplete.
-- Edit: Click the edit icon to modify a task, then click "Update."
-- Delete: Click the delete icon to remove a task.
-- Tasks are automatically saved in your browser's local storage and will persist across sessions.
-
-
 
 ## Usage
 
