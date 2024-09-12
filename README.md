@@ -67,7 +67,6 @@ task-cli [command]
 
 ### Commands
 - `add "task description"`
-
 Adds a new task with the specified description.
 **Example:** `task-cli add "Finish the report"`
 
