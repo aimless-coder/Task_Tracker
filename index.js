@@ -6,7 +6,7 @@ import fs from 'fs';
 import chalk from 'chalk';
 import Table from 'cli-table3';
 
-const globalState = { data: [] };
+const globalState = { data: [] }; //Ensures all task operations operate on the same consistent data set.
 const argv = process.argv.slice(2);
 const filePath = './tasks.json';
 
